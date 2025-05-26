@@ -1,0 +1,56 @@
+
+Project: Elpeperino ($ELpepe) - Meme Coin Website
+
+Style:
+- Visual theme based on children’s cartoon aesthetics, specifically inspired by "Peppa Pig".
+- Soft pastel color palette (light pinks, sky blue, soft greens).
+- Characters and elements should be rounded, friendly, and cute.
+- Site must feel whimsical and approachable, suitable for the meme culture.
+
+Layout:
+- Full-screen banner at top with the logo (logo.jpg) and large coin name “Elpeperino ($ELpepe)” glowing softly.
+- Responsive layout optimized for both desktop and mobile.
+
+Animations:
+- Smooth floating animations for background clouds and characters.
+- Hover effects with gentle scaling or bouncing for interactive elements.
+- Page sections fade in as you scroll.
+- Subtle shine or glow on coin title (animated CSS).
+
+Sections:
+1. **Hero Section**
+   - Full-width banner image.
+   - Prominent display of logo and coin name.
+   - Two large buttons: 
+     - "View on Twitter" → links to Twitter.
+     - "Buy on Pump.fun" → links to pump.fun.
+
+2. **About Section**
+   - Short fun paragraph about Elpeperino.
+   - Text in a childlike font, colorful bubble-style text box.
+
+3. **Lore / Meme Story**
+   - Series of cute stories explaining Elpeperino’s origin.
+   - Each story in its own cartoon speech bubble or block.
+   - Include one or two meme-style images per block (use uploaded images).
+
+4. **Tokenomics**
+   - Colorful, simple pie chart-style display.
+   - Key stats in big round bubbles.
+
+5. **Community**
+   - Highlight Twitter links, meme engagement, and hashtags.
+   - Section styled like a chalkboard or drawing board.
+
+6. **Call to Action**
+   - Repeating coin name and large bright "Buy Now" button.
+   - Background features Peppa-style characters cheering.
+
+Fonts & Styling:
+- Main font: Rounded, cartoon-like, e.g., “Comic Neue” or similar.
+- Large headings in all caps, bold, pastel color.
+- Soft drop shadows and rounded borders everywhere.
+
+Final Notes:
+- Make it fun, silly, and feel like a high-effort meme project.
+- Must feel high-quality and clean despite cartoonish aesthetic.
